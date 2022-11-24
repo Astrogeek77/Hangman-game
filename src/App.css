@@ -30,4 +30,6 @@
 
 .panel p .guess {
   color: yellowgreen;
+  text-transform: uppercase;
+  
 }
